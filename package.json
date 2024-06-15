@@ -1,0 +1,16 @@
+{
+  "name": "kingdomhub.xyz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Augment Chinedu, Genesis Krane",
+  "license": "ISC",
+  "description": "A Kingdom Enterprise Application",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
